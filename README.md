@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mateuszgrzybek, a front-end developer
-- 👀 I’m interested in front-end development and related technologies
+- 👀 I’m interested in both front-end and back-end related technologies such as TypeScript, Vue, Pinia, Vuex, .NET ecosystem, Python, as well as test-automation tools such as Selenium, Cucumber/Gherkin and Specflow
 - 🌱 I’m currently learning Vue3 combined with Pinia, Yup and Vee-Validate
